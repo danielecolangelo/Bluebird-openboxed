@@ -21,9 +21,9 @@ menu.items.active.bg: flat solid
 menu.items.active.bg.color: #7E9EBD
 menu.items.active.text.color: #f9f9f9
 
-menu.separator.color: #262626
+menu.separator.color: #ddd
 menu.separator.width: 1
-menu.separator.padding.width: 2
+menu.separator.padding.width: 8
 menu.separator.padding.height: 4
 
 # window
@@ -47,6 +47,7 @@ window.active.button.hover.image.color: #000000
 window.active.button.pressed.image.color: #000000
 window.active.button.disabled.image.color: #93ADC9
 window.active.button.toggled.image.color: #ffffff
+window.active.button.toggled.hover.image.color: #000
 
 
 # Inactive window
@@ -90,7 +91,6 @@ window.active.label.text.font:shadow=n
 window.inactive.label.text.font:shadow=n
 menu.items.font:shadow=n
 menu.title.text.font:shadow=n
-
 
 # Everything else
 border.width: 1
